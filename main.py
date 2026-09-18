@@ -13,6 +13,6 @@ distance = math.sqrt(math.pow(x2 - x1, 2) + math.pow(y2 - y1, 2))
 print("The distance between of the two points is:", round(distance, 2))
 
 #Reflection question:
-#The math library made the program much simpler by providing ready-to-use functions like sqrt() and pow(), which saved time and reduced the need for complex manual calculations. 
-#These functions made it easy to perform square roots and exponentiation accurately with just a single line of code. 
-#Without them, I would have had to write lengthy algorithms to handle these operations, making the program more complicated and error-prone.
+#The math library was a huge time-saver. Instead of writing long, 
+#bug-prone code to calculate square roots and powers from scratch, 
+#I could just use sqrt() and pow() to keep things clean and accurate
